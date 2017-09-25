@@ -2,8 +2,11 @@
 *~
 __pycache__
 .env
+<<<<<<< HEAD
 env
 myvenv
+=======
+>>>>>>> 6d9f2dadbf20c42ff965fb4a382c1aed8626a1a2
 db.sqlite3
 /static
 .DS_Store
